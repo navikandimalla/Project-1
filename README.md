@@ -6,7 +6,7 @@ The files in this repository were used to configure the network depicted below.
 
 Name of file: Project 1 - Network Diagram.png
 
-
+![Project 1-  Cloud Security  Network Diagram](https://user-images.githubusercontent.com/80087286/122869349-20dddd00-d2fa-11eb-87c7-cd66fb395eb6.png)
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the playbook file may be used to install only certain pieces of it, such as Filebeat.
 
