@@ -125,13 +125,9 @@ The following screenshot displays the result of running `docker ps` after succes
 
 This ELK server is configured to monitor the following machines:
 
-+------+------------+
-| Name | IP Address |
-+------+------------+
-| WEB1 | 10.2.0.5   |
-+------+------------+
-| WEB2 | 10.2.0.6   |
-+------+------------+
+NAME	IP ADDRESSES
+WEB-1	10.2.0.5
+WEB-2	10.1.0.6
 
 We have installed the following Beats on these machines:
 
