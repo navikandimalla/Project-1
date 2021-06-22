@@ -117,7 +117,7 @@ Download and launch/configure a docker container
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
-
+![ELKSERVER - Docker- Container ID](https://user-images.githubusercontent.com/80087286/122869541-6bf7f000-d2fa-11eb-908c-d1ee222b3745.PNG)
 
 
 ### Target Machines & Beats
