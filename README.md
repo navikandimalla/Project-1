@@ -165,6 +165,8 @@ of Web-1 and Web-2 under [webservers] to ensure filebeat is installed on the cor
 - We navigate following to access the kibana-GUI
 http://20.151.117.30/:5601/app/kibana#/ ( Unique to me )
 
+![Kibana Screen shot](https://user-images.githubusercontent.com/80087286/122871430-fccfcb00-d2fc-11eb-87b9-74419ce7cb92.PNG)
+
 
 _Few Commands the user will need to run to download the playbook, update the files, etc._
 
