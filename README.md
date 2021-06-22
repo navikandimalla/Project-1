@@ -38,17 +38,12 @@ Integrating an ELK server allows users to easily monitor the vulnerable VMs for 
 
 The configuration details of each machine may be found below.
 
-╔══════════════════════╦═══════════╦═══════════════╦══════════════════╗
-║ Name                 ║ Function  ║ IP Address    ║ Operating System ║
-╠══════════════════════╬═══════════╬═══════════════╬══════════════════╣
-║ Jump-Box-Provisioner ║ GATEWAY   ║ 138.91.157.14 ║ LINUX            ║
-╠══════════════════════╬═══════════╬═══════════════╬══════════════════╣
-║ WEB1                 ║ WEBSERVER ║ 10.2.0.5      ║ LINUX            ║
-╠══════════════════════╬═══════════╬═══════════════╬══════════════════╣
-║ WEB2                 ║ WEBSERVER ║ 10.2.0.6      ║ LINUX            ║
-╠══════════════════════╬═══════════╬═══════════════╬══════════════════╣
-║ VM-ELKServer         ║ ELK Stack ║ 10.1.0.4      ║ LINUX            ║
-╚══════════════════════╩═══════════╩═══════════════╩══════════════════╝
+| Name       		| Function              | IP Address     | Operating System |
+|-----------------------|-----------------------|----------------|------------------|
+| Jump-Box-Provisioner 	| GATEWAY               | 138.91.157.14  | LINUX            |
+| WEB-1      		| WEBSERVER             | 10.2.0.5       | LINUX            |
+| WEB-2      		| WEBSERVER             | 10.2.0.6       | LINUX            |
+| ELK-SERVER 		| MONITORING/ELK Server | 10.1.0.4       | LINUX            |
 
 
 ### Access Policies
